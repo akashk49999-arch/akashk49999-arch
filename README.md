@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Akash k👋
 
 ### 🛡️ Cybersecurity Enthusiast | Ethical Hacker | Content Creator
 
@@ -39,7 +39,7 @@ I am a cybersecurity student at Offenso Academy with a BSc in Computer Science, 
 
 * **LinkedIn:** [Your LinkedIn URL]
 * **YouTube:** [Link to FortressX or Mallu Bomber]
-* **Email:** [Your Professional Email]
+* **Email:** akashk49999@gmail.com
 
 ---
 ⭐️ *“The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards.”* – Gene Spafford## Hi there 👋
