@@ -6,7 +6,7 @@ I am a cybersecurity student at Offenso Academy with a BSc in Computer Science, 
 
 ### 👨‍💻 About Me
 
-* 🎓 Currently pursuing my **Offenso Certified Security Professional (OCSP)** certification and working towards a role as a cybersecurity educator/trainer.
+* 🎓 Currently pursuing my **Offenso Certified Security Professional (OCSP)** certification and working towards a role as a cybersecurity specialist.
 * 💻 **CTF Player:** I love diving into cryptography, steganography, and decoding complex ciphers.
 * 🛠️ **What I'm building:** I'm currently developing **FortressX**, a custom boot-to-root vulnerable machine designed for educational purposes. It features realistic attack vectors and misconfigurations across services like WordPress and Next.js.
 * 🎮 **Beyond the terminal:** When I'm not hunting for CVEs or bypassing security controls, you can find me managing my gaming YouTube channels (*FortressX* & *Mallu Bomber*), grinding ranks in Valorant and CS2, or hanging out with my Rottweiler, Maverick, and my two Persian cats.
